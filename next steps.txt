@@ -3,9 +3,6 @@
 use Type definitionen - type-ins (?)
 use Docstrings in Code
 
-
-Repo erstellen und freigeben für Jan sobald sortierter/kommentierter Code: jandix
-
 Code
 -> für Entwickler:innen verständlich / gute Dokumentation
 -> in GO übersetzen und dann in executable verpacken, GO - lässt sich direkt native umsetzen
@@ -14,7 +11,3 @@ oder in Python und PyInstaller inkludieren? - Größe checken.
 
 GitHub Actions nutzen: baut executables für verschiedene OS simultan -> sobald prototyp steht, kann executable veröffentlicht werden und dann on-the-go geupdated
 
-
-
-Next steps:
-- distributen über Stifter Helfen
