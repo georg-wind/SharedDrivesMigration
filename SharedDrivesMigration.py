@@ -1,11 +1,3 @@
-'''
-
-This program moves a complex folder-file-structure from a (personal) drive into a shared drive while maintaining the structure
-and accounting for missing ownership rights that effectively hinder the moving of any files.
-
-Prerequirements: local Google Drive for Desktop installation, identified locations from where to where files and sub-folders should be moved, python libraries installed.not
-
-'''
 
 ### Program set-up #####
 # enter path that holds the files/sub-folders that are supposed to be moved here:
@@ -20,7 +12,6 @@ deleteemptyfolders = True
 
 ## PARAMETER-DOUBLECHECK: Are you sure you have correctly specified all parameters? -> If yes, set this to True
 parameter_check = False
-
 
 
 
